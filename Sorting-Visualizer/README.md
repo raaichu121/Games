@@ -6,24 +6,13 @@ This is a Sorting Visualizer program that displays a graphical representation of
 - Selection sort
 - Insertion sort
 
+![Sorting gif](./Assets/Sorting.gif)
+
 ## Getting Started
 
 ### Prerequisites
 - Python 3.6 or later
 - Tkinter library
-
-### Installation
-<!-- ### Install Tkinter:
-
-- For Ubuntu:
-
-```csharp
-
-    sudo apt-get install python3-tk
-```
-
-- For Windows or Mac:
-    - Tkinter should be installed with Python by default. -->
 
 ### Usage
 
@@ -41,8 +30,6 @@ This is a Sorting Visualizer program that displays a graphical representation of
 2. Heap Sort
 3. Quick Sort
 4. and others (maybe)
-<!-- 5. Add Error Handling -->
-<!-- 6. Implement logging so debugging could be easier. -->
 
 # Acknowledgments
-This program was heavily inspired by [Timo Bingmann](https://www.youtube.com/@TimoBingmann)
+This program was heavily inspired by [15 Sorting Algorithms in 6 Minutes](https://youtu.be/kPRA0W1kECg) - [Timo Bingmann](https://www.youtube.com/@TimoBingmann)
